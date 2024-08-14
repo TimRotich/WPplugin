@@ -22,7 +22,7 @@ This WordPress plugin notifies users that the content of a page is currently una
 
 ## Usage
 
-- Once activated, Visit the page you want to use the plug and past the shotcode then publish.
+- Once activated, Visit the page where you want to use the plugin paste the shotcode then publish.
 
 ## Screenshots
 ![Screenshot 2024-08-14 232742](https://github.com/user-attachments/assets/dbd6879d-2911-4173-94f0-3099722fbaa4)
